@@ -1,8 +1,8 @@
-## Persist Deleted Records for Mongoid
+#### Persist Deleted Records for Mongoid
 ===============
 Soft delete functionality for Mongoid ORM so you may recover records at later stage.
 
-## Installation
+#### Installation
 =======
 Add following line to your Gemfile
 
@@ -36,7 +36,7 @@ This will generate migration file and automatically include Persistable module t
     
 and that is all. 
 
-## Usage
+#### Usage
 =======
 
 Persist sensitive data with options to recover data.
